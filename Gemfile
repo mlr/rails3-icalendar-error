@@ -2,6 +2,7 @@ source 'https://rubygems.org'
 
 gem 'rails', '3.2.20'
 gem 'icalendar', '2.1.1'
+gem 'carrierwave-mongoid', '~> 0.7', require: 'carrierwave/mongoid'
 
 # Bundle edge Rails instead:
 # gem 'rails', :git => 'git://github.com/rails/rails.git'
